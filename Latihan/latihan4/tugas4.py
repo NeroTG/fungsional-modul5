@@ -22,11 +22,4 @@ plt.ylabel('Nilai y')
 
 # Menampilkan grid
 plt.grid(True)
-
 plt.show()
-
-# Mengubah warna titik menjadi merah dengan color='red'.
-# Mengubah ukuran titik menjadi 100 dengan s=100.
-# Menambahkan tepi hitam ke titik dengan edgecolors='black'.
-# Menambahkan judul dan label sumbu dengan plt.title, plt.xlabel, dan plt.ylabel.
-# Menampilkan grid dengan plt.grid(True).
