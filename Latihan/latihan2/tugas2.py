@@ -36,11 +36,3 @@ for (i, j) in zip(xpoints, ypoints):
 
 plt.show()
 
-
-
-# Mengubah ukuran figur menjadi 7x7 untuk memberikan lebih banyak ruang.
-# Menambahkan marker ‘o’ ke titik data.
-# Mengubah garis menjadi putus-putus dengan lebar 2.
-# Menambahkan judul dan label ke sumbu x dan y.
-# Menambahkan grid ke grafik.
-# Menambahkan koordinat titik data sebagai teks di grafik.
